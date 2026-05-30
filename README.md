@@ -212,7 +212,7 @@ O vídeo de apresentação do projeto encontra-se na raiz do repositório.
 Alternativamente, a URL do vídeo pode ser disponibilizada abaixo:
 
 ```text id="jlwmz8"
-[Adicionar link do vídeo aqui]
+[https://youtu.be/_GwYrxWWE2w]
 ```
 
 ---
