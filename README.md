@@ -226,6 +226,7 @@ Disponível no arquivo:
 ```text id="jlwmzc"
 canvas-url.txt
 ```
+Ou: [MVP Canvas no Miro](https://miro.com/welcomeonboard/YnBDbHVRdTMwSGNFQ2ExaUpNaEhXZHBUTkI1QkNYdnpSYWd4RjBGdkRuYlVFOW1wVGNvSUdOZmN0a2I3Nkl3R2NmYlExdkZQSHJFMUowM0xnY1daeU9YcVZwSGZMai9RdjA3dE9uT0JOKzNHNkpDbDRwWlYxa3ArYkk4c0RiWUNyVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=397631781480)
 
 ---
 
